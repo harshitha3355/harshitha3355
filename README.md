@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : harshitha3355@gmail.com
 - 😄 Pronouns: she, her
-- I am a jack of all and master of few. I learned photoshop and illustrator. I can also make basic web pages with beautiful web designs.
-- I am looking forward to learn things like Figma, AUTOCAD/CAM and content creation.
-- My hobbies are reading books and sewing my own apparel.
+- 📚 Currently Learning:
+     -Advanced Data Structures and Algorithms (DSA) to excel in coding challenges and technical interviews.
+     -SEO optimization techniques to improve website visibility and performance.
+     -Web development skills, focusing on creating dynamic, responsive, and accessible web applications
+-🌱 Goals:
+     -Continuously improving my coding skills and problem-solving techniques.
+     -Enhancing my knowledge in SEO and digital marketing strategies to create impactful, high-ranking websites.
