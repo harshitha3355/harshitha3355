@@ -1,7 +1,7 @@
 - 👋 Hi, I’m harshitha.  Studying in B.tech; ECE branch.
 - 👀 I’m interested in graphic designing and communication
 - 🌱 I’m currently learning web development
-- 📫 How to reach me : machasaiharshitha@gmail.com
+- 📫 How to reach me : harshitha3355@gmail.com
 - 😄 Pronouns: she, her
 - I am a jack of all and master of few. I learned photoshop and illustrator. I can also make basic web pages with beautiful web designs.
 - I am looking forward to learn things like Figma, AUTOCAD/CAM and content creation.
